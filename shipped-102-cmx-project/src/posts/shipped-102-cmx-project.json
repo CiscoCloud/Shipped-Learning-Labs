@@ -1,0 +1,25 @@
+{
+    "labId": "shipped-102-cmx-project",
+    "title": "Shipped 102: Shipped 102: Deploy CMX Project in Shipped using Windows",
+    "byod": true,
+    "slug": "Creating your first project in Shipped",
+    "files": [
+        {"title": "1-shipped-102-cmx-project.md"},
+        {"title": "2-shipped-102-cmx-project.md"},
+        {"title": "3-shipped-102-cmx-project.md"},
+        {"title": "4-shipped-102-cmx-project.md"}
+
+    ],
+    "tags": [
+        {"title" : "Shipped"},
+        {"title": "Coding"},
+        {"title": "Cloud"},
+        {"title": "Windows"}
+    ],
+    "related": [
+        {
+            "labId": "shipped-101-first-project",
+            "title": "Shipped 101: Creating your First Project"
+        },
+    ]
+

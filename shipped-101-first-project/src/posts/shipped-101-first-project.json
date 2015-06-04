@@ -19,12 +19,8 @@
     ],
     "related": [
         {
-            "labId": "shipped-102-rails-project",
-            "title": "Shipped 102: Deploy Rails Project in Shipped"
-        },
-        {
-            "labId": "shipped-103-cmx-project",
-            "title": "Coding 102: Deploy CMX Project in Shipped"
+            "labId": "shipped-102-cmx-project",
+            "title": "Shipped 102: Deploy CMX Project in Shipped using Windows"
         },
     ]
 
