@@ -7,7 +7,8 @@
         {"title": "1-shipped-101-first-project.md"},
         {"title": "2-shipped-101-first-project.md"},
         {"title": "3-shipped-101-first-project.md"},
-        {"title": "4-shipped-101-first-project.md"}
+        {"title": "4-shipped-101-first-project.md"},
+        {"title": "5-shipped-101-first-project.md"}
 
     ],
     "tags": [
@@ -18,12 +19,12 @@
     ],
     "related": [
         {
-            "labId": "shipped-102-deploy-project",
-            "title": "Shipped 102: Deploy Fist Project in Shipped"
+            "labId": "shipped-102-rails-project",
+            "title": "Shipped 102: Deploy Rails Project in Shipped"
         },
         {
-            "labId": "coding-102-rest-python",
-            "title": "Coding 102: Calling REST APIs from Python"
+            "labId": "shipped-103-cmx-project",
+            "title": "Coding 102: Deploy CMX Project in Shipped"
         },
     ]
 
