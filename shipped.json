@@ -1,0 +1,16 @@
+{
+  "labId": "shipped-",
+  "files": [
+    {"Using Shipped the First Time": "1.md"}
+  ],
+  "related": [
+    {
+      "labId": "shipped-manage-projects",
+      "title": "Shipped - Managing Projects"
+    },
+    {
+      "labId": "shipped-manage-environments",
+      "title": "Shipped - Managing Environments"
+    }
+  ]
+}
