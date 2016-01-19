@@ -1,8 +1,8 @@
 {
-    "labId": "shipped-bootstrap-project",
-    "title": "Shipped - Bootstrap a Project",
+    "labId": "shipped-bootstrap-spark",
+    "title": "Shipped - Bootstrap a Project Using Spark",
     "byod": true,
-    "slug": "Creating a project in Shipped",
+    "slug": "Bootstrap a project in Shipped",
     "files": [
         {"title": "1.md"},
         {"title": "2.md"}
@@ -11,7 +11,8 @@
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "Windows"}
+        {"title": "Windows"},
+	{"title": "Spark"}
     ],
     "related": [
         {
@@ -24,27 +25,27 @@
         },
         {
             "labId": "shipped-bootstrap-project",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped - Bootstrap a Project"
         },
         {
             "labId": "shipped-bootstrap-spark",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped - Bootstrap Using Spark"
         },
         {
             "labId": "shipped-manage-services",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped - Maanging Services"
         },
         {
             "labId": "shipped-manage-environments",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped - Managing Environments"
         },
         {
             "labId": "shipped-deploy-project",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped - Deploy a Project"
         },
         {
             "labId": "shipped-manage-users",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped - Manage Users"
         }
     ]
 ]
