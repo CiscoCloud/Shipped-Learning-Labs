@@ -50,7 +50,7 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 
 1. To contribute, fork then clone this project.
 2. Consider these guidelines:
-<<<<<<< HEAD
+
 	- Use a descriptive title, one main topic per page.
 	- Keep the content relevant to the title. If you find you have a lot of side notes and extraneous information, consider creating another topic.
 	- State the most important content first.
@@ -61,7 +61,6 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 		- **ACTIVE**. The feedthrough contained a sapphire optical fiber, which pressed against the pyrotechnic containing the charge.
 	5. Avoid jargon.
 	6. Test out the instructions yourself. Ensure the steps are complete (but brief!).
-=======
 	- Use a descriptive title, one main topic per page.
 	- Keep the content relevant to the title. If you find you have a lot of side notes and extraneous information, consider creating another topic.
 	- State the most important content first.
@@ -72,7 +71,8 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 		- **ACTIVE**. The feedthrough contained a sapphire optical fiber, which pressed against the pyrotechnic containing the charge.
 	5. Avoid jargon.
 	6. Test out the instructions yourself. Ensure the steps are complete (but brief!).
->>>>>>> master
+
+	See the Official <a href="http://www-author.cisco.com/c/en/us/td/docs/general/style/guide/Latest/stylegd.html">Cisco Technical Content Style Guide</a> for more detailed direction.
 
 
 3. When finished, commit then push to the Master.
@@ -80,11 +80,5 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 
 ## Open source licensing info
 
-<<<<<<< HEAD
-
 1. <a href="terms.md">TERMS</a>
-=======
-
-1. <a href="terms.md">TERMS</a>
->>>>>>> master
 2. <a href="LICENSE.md">LICENSE</a>
