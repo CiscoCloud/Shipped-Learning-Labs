@@ -50,6 +50,7 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 
 1. To contribute, fork then clone this project.
 2. Consider these guidelines:
+<<<<<<< HEAD
 	- Use a descriptive title, one main topic per page.
 	- Keep the content relevant to the title. If you find you have a lot of side notes and extraneous information, consider creating another topic.
 	- State the most important content first.
@@ -60,6 +61,18 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 		- **ACTIVE**. The feedthrough contained a sapphire optical fiber, which pressed against the pyrotechnic containing the charge.
 	5. Avoid jargon.
 	6. Test out the instructions yourself. Ensure the steps are complete (but brief!).
+=======
+	- Use a descriptive title, one main topic per page.
+	- Keep the content relevant to the title. If you find you have a lot of side notes and extraneous information, consider creating another topic.
+	- State the most important content first.
+	- Instructions that are easiest to understand are brief, simple, and focused. Often, users don't need the backstory to accomplish a simple task. Consider a separate topic for further explanations. Use details wisely. Avoid padding.
+	- Place images and screenshots after the explanation. Do not use captions.
+	- Write using the active voice. For example: 
+		- **PASSIVE**. The feedthrough was composed of a sapphire optical fiber, which was pressed against the pyrotechnic that was used to confine the charge.
+		- **ACTIVE**. The feedthrough contained a sapphire optical fiber, which pressed against the pyrotechnic containing the charge.
+	5. Avoid jargon.
+	6. Test out the instructions yourself. Ensure the steps are complete (but brief!).
+>>>>>>> master
 
 
 3. When finished, commit then push to the Master.
@@ -67,6 +80,11 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 
 ## Open source licensing info
 
+<<<<<<< HEAD
 
 1. <a href="terms.md">TERMS</a>
+=======
+
+1. <a href="terms.md">TERMS</a>
+>>>>>>> master
 2. <a href="LICENSE.md">LICENSE</a>
