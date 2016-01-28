@@ -1,24 +1,30 @@
 {
-    "labId": "shipped-bootstrap-spark",
-    "title": "Shipped - Bootstrap a Project Using Spark",
+    "labId": "shipped-quick-start",
+    "title": "Shipped - Quick Start",
     "byod": true,
-    "slug": "Bootstrap a project in Shipped",
+    "slug": "Setting up quickly in Shipped",
     "files": [
-        {"title": "1-shipped-bootstrap-spark.md"}
+        {"title": "1-shipped-quick-start.md"},
+        {"title": "2-shipped-quick-start.md"},
+        {"title": "3-shipped-quick-start.md"},
+        {"title": "4-shipped-quick-start.md"}
     ],
     "tags": [
         {"title": "Shipped"},
+        {"title": "Coding"},
         {"title": "Cloud"},
-        {"title": "Project"},
-        {"title": "golang"},
-	{"title": "Spark"}
+        {"title": "Golang"}
     ],
     "related": [
         {
             "labId": "shipped-first-time",
             "title": "Shipped - Using Shipped the First Time"
         },
-        {
+         {
+            "labId": "shipped-quick-start",
+            "title": "Shipped - Quick Start"
+        },
+       {
             "labId": "shipped-manage-projects",
             "title": "Shipped - Managing Projects"
         },
@@ -48,3 +54,5 @@
         }
     ]
 ]
+    
+
