@@ -4,21 +4,24 @@
     "byod": true,
     "slug": "Get set up in Shipped",
     "files": [
-        {"title": "1.md"},
-        {"title": "2.md"}
+        {"title": "1-first-time.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "Windows"}
+        {"title": "Golang"}
     ],
     "related": [
         {
             "labId": "shipped-first-time",
             "title": "Shipped - Using Shipped the First Time"
         },
-        {
+         {
+            "labId": "shipped-quick-start",
+            "title": "Shipped - Quick Start"
+        },
+       {
             "labId": "shipped-manage-projects",
             "title": "Shipped - Managing Projects"
         },
@@ -32,7 +35,7 @@
         },
         {
             "labId": "shipped-manage-services",
-            "title": "Shipped - Maanging Services"
+            "title": "Shipped - Managing Services"
         },
         {
             "labId": "shipped-manage-environments",

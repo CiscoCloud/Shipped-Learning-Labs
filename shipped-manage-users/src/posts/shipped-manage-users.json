@@ -4,14 +4,15 @@
     "byod": true,
     "slug": "Manage Users in Shipped",
     "files": [
-        {"title": "1.md"},
-        {"title": "2.md"}
+        {"title": "1-shipped-manage-users.md"},
+        {"title": "2-shipped-manage-users.md"},
+	{"title": "3-shipped-manage-users.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "Windows"}
+        {"title": "golang"}
     ],
     "related": [
         {
@@ -32,7 +33,7 @@
         },
         {
             "labId": "shipped-manage-services",
-            "title": "Shipped - Maanging Services"
+            "title": "Shipped - Managing Services"
         },
         {
             "labId": "shipped-manage-environments",

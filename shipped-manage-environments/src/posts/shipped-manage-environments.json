@@ -4,14 +4,16 @@
     "byod": true,
     "slug": "Manage Environments in Shipped",
     "files": [
-        {"title": "1.md"},
-        {"title": "2.md"}
+        {"title": "1-shipped-manage-environments.md"},
+        {"title": "2-shipped-manage-environments.md"},
+        {"title": "3-shipped-manage-environments.md"},
+        {"title": "4-shipped-manage-environments.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "Windows"}
+        {"title": "golang"}
     ],
     "related": [
         {
@@ -32,7 +34,7 @@
         },
         {
             "labId": "shipped-manage-services",
-            "title": "Shipped - Maanging Services"
+            "title": "Shipped - Managing Services"
         },
         {
             "labId": "shipped-manage-environments",
