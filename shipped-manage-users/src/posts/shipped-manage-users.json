@@ -1,0 +1,51 @@
+{
+    "labId": "shipped-manage-users",
+    "title": "Shipped - Managing Users",
+    "byod": true,
+    "slug": "Manage Users in Shipped",
+    "files": [
+        {"title": "1-shipped-manage-users.md"},
+        {"title": "2-shipped-manage-users.md"},
+	{"title": "3-shipped-manage-users.md"}
+    ],
+    "tags": [
+        {"title": "Shipped"},
+        {"title": "Cloud"},
+        {"title": "Project"},
+        {"title": "golang"}
+    ],
+    "related": [
+        {
+            "labId": "shipped-first-time",
+            "title": "Shipped - Using Shipped the First Time"
+        },
+        {
+            "labId": "shipped-manage-projects",
+            "title": "Shipped - Managing Projects"
+        },
+        {
+            "labId": "shipped-bootstrap-project",
+            "title": "Shipped - Bootstrap a Project"
+        },
+        {
+            "labId": "shipped-bootstrap-spark",
+            "title": "Shipped - Bootstrap Using Spark"
+        },
+        {
+            "labId": "shipped-manage-services",
+            "title": "Shipped - Managing Services"
+        },
+        {
+            "labId": "shipped-manage-environments",
+            "title": "Shipped - Managing Environments"
+        },
+        {
+            "labId": "shipped-deploy-project",
+            "title": "Shipped - Deploy a Project"
+        },
+        {
+            "labId": "shipped-manage-users",
+            "title": "Shipped - Manage Users"
+        }
+    ]
+]

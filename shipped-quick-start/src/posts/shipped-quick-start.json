@@ -1,0 +1,58 @@
+{
+    "labId": "shipped-quick-start",
+    "title": "Shipped - Quick Start",
+    "byod": true,
+    "slug": "Setting up quickly in Shipped",
+    "files": [
+        {"title": "1-shipped-quick-start.md"},
+        {"title": "2-shipped-quick-start.md"},
+        {"title": "3-shipped-quick-start.md"},
+        {"title": "4-shipped-quick-start.md"}
+    ],
+    "tags": [
+        {"title": "Shipped"},
+        {"title": "Coding"},
+        {"title": "Cloud"},
+        {"title": "Golang"}
+    ],
+    "related": [
+        {
+            "labId": "shipped-first-time",
+            "title": "Shipped - Using Shipped the First Time"
+        },
+         {
+            "labId": "shipped-quick-start",
+            "title": "Shipped - Quick Start"
+        },
+       {
+            "labId": "shipped-manage-projects",
+            "title": "Shipped - Managing Projects"
+        },
+        {
+            "labId": "shipped-bootstrap-project",
+            "title": "Shipped - Bootstrap a Project"
+        },
+        {
+            "labId": "shipped-bootstrap-spark",
+            "title": "Shipped - Bootstrap Using Spark"
+        },
+        {
+            "labId": "shipped-manage-services",
+            "title": "Shipped - Managing Services"
+        },
+        {
+            "labId": "shipped-manage-environments",
+            "title": "Shipped - Managing Environments"
+        },
+        {
+            "labId": "shipped-deploy-project",
+            "title": "Shipped - Deploy a Project"
+        },
+        {
+            "labId": "shipped-manage-users",
+            "title": "Shipped - Manage Users"
+        }
+    ]
+]
+    
+
