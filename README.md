@@ -25,13 +25,14 @@ Images for each Learning Lab are stored in their own directory:
 	labs/labname/assets
 
 ### Image File References
-In order to support uploads to Cisco devnet, image files __must__ be referenced
-with links of the form:
+To support uploads to Cisco DevNet, image files **must** be referenced
+with links in the form:
 
     ![](posts/files/*labname*/*imagename*)
 
-To view images locally, you must  create a posts/files subdirectory with a symbolic link pointing back to the lab's source directory.  Two scripts are included (build.sh (Linux and Mac) and build.bat) that create the required symbolic links to all labs.  The Windows
-script must be run with Administrator privileges.
+To view images locally, insert an HTML link. This does not appear in the final output:
+
+	<img src="assets/image-name.png">
 
 ##Usage
 
