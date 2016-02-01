@@ -14,11 +14,15 @@ Each lab consists of one or more files named 1.md, 2.md, etc., with associated i
 ### Directory Structure
 Each learning lab is stored in directory 
 
-	labname*/src/posts/files/*labname
+	labs/labname/md.1
+	labs/labname/md.2
+	labs/labname/md.3
+	labs/labname/labname.json 	// contains related links
+	labs/labname/byod.html  	// contians instructions for Bring Your Own Device
 
 Images for each Learning Lab are stored in their own directory: 
 
-	labname/src/posts/files/labname/assets
+	labs/labname/assets
 
 ### Image File References
 In order to support uploads to Cisco devnet, image files __must__ be referenced
