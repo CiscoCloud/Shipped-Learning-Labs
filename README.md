@@ -85,5 +85,4 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 
 ## Open source licensing info
 
-1. <a href="terms.md">TERMS</a>
-2. <a href="LICENSE.md">LICENSE</a>
+- <a href="LICENSE.md">LICENSE</a>
