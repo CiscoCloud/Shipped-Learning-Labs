@@ -4,7 +4,7 @@
     "byod": true,
     "slug": "Bootstrap a project in Shipped",
     "files": [
-        {"title": "1-shipped-bootstrap-project.md"},
+        {"title": "1-shipped-bootstrap-project.md"}
     ],
     "tags": [
         {"title": "Shipped"},
@@ -46,4 +46,4 @@
             "title": "Shipped - Manage Users"
         }
     ]
-]
+}
