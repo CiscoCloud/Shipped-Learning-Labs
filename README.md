@@ -25,11 +25,11 @@ Images for each Learning Lab are stored in their own directory:
 	labs/labname/assets
 
 ### Image File References
-To support uploads to Cisco DevNet, image files can be referenced using HTML:
+To support uploads to Cisco DevNet, image files can be referenced using HTML (if they are already on another site):
 	
 	<a href="www.website.com/assets/image.png">
 
-**OR** in the form:
+**OR** in the form (if they are in the local assets folder):
 
     ![](posts/files/*labname*/*assets/imagename*)
 
@@ -82,6 +82,31 @@ Feel free to contribute directly, or post a request or correction in the Issue T
 
 
 3. When finished, commit then push to the Master.
+
+
+## Pre-Release
+
+When ready, notify DevNet that the files have been updated. Then notify the team so they can review them.
+
+To access:
+
+1.	Go to https://developer.cisco.com/site/devnet/learningLabs/overview.gsp and Log in.
+
+	The **Log i**n button changes to a **Go** button.
+
+2.	Right-click the **Go** button, then copy and paste that into your browser address bar.
+
+	You are assigned a unique token ID that only lasts for 5 minutes – so you will have to do this each time.
+
+3.	Go to the beginning of the link in the address bar, then type **:8867** behind **https://learninglabs.cisco.com**.
+
+	You are now on the pre-release site.
+
+	The Shipped labs are listed under **Shipped**.
+
+After they have been reviewed, they are OK to release. Notify DevNet to get them released.
+
+
 
 
 ## Open source licensing info
