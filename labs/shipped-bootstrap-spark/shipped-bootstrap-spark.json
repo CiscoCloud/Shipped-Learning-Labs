@@ -3,14 +3,15 @@
     "title": "Shipped - Bootstrap a Project Using Spark",
     "byod": true,
     "slug": "Bootstrap a project in Shipped",
+     "time": "10",
     "files": [
-        {"title": "1-shipped-bootstrap-spark.md"}
+        {"title": "1.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "golang"},
+        {"title": "bootstrap"},
 	{"title": "Spark"}
     ],
     "related": [

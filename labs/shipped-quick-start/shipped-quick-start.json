@@ -2,18 +2,20 @@
     "labId": "shipped-quick-start",
     "title": "Shipped - Quick Start",
     "byod": true,
-    "slug": "Setting up quickly in Shipped",
+    "time": "30",
+    "slug": "Set up quickly in Shipped",
     "files": [
-        {"title": "1-shipped-quick-start.md"},
-        {"title": "2-shipped-quick-start.md"},
-        {"title": "3-shipped-quick-start.md"},
-        {"title": "4-shipped-quick-start.md"}
+        {"title": "1.md"},
+        {"title": "2.md"},
+        {"title": "3.md"},
+        {"title": "4.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Coding"},
         {"title": "Cloud"},
-        {"title": "Golang"}
+        {"title": "quick"},
+	{"title": "start"}
     ],
     "related": [
         {

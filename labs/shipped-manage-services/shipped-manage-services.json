@@ -3,19 +3,20 @@
     "title": "Shipped - Managing Services",
     "byod": true,
     "slug": "Manage Services in Shipped",
+     "time": "10",
     "files": [
-        {"title": "1-shipped-manage-services.md"},
-        {"title": "2-shipped-manage-services.md"},
-	{"title": "3-shipped-manage-services.md"},
-        {"title": "4-shipped-manage-services.md"},
-        {"title": "5-shipped-manage-services.md"},
-        {"title": "6-shipped-manage-services.md"}
+        {"title": "1.md"},
+        {"title": "2.md"},
+	{"title": "3.md"},
+        {"title": "4.md"},
+        {"title": "5.md"},
+        {"title": "6.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "golang"}
+        {"title": "services"}
     ],
     "related": [
         {

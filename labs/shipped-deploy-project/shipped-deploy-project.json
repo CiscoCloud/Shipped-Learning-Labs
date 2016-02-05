@@ -3,14 +3,15 @@
     "title": "Shipped - Deploy a Project",
     "byod": true,
     "slug": "Deploy a project in Shipped",
+     "time": "5",
     "files": [
-        {"title": "1-shipped-deploy-project.md"}
+        {"title": "1.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "golang"}
+        {"title": "deploy"}
     ],
     "related": [
         {

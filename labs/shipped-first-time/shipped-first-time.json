@@ -3,14 +3,15 @@
     "title": "Shipped - Using Shipped the First Time",
     "byod": true,
     "slug": "Get set up in Shipped",
+     "time": "10",
     "files": [
-        {"title": "1-first-time.md"}
+        {"title": "1.md"}
     ],
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
         {"title": "Project"},
-        {"title": "Golang"}
+        {"title": "first"}
     ],
     "related": [
         {
