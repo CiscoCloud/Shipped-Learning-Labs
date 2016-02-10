@@ -16,35 +16,39 @@
     "related": [
         {
             "labId": "shipped-first-time",
-            "title": "Shipped - Using Shipped the First Time"
+            "title": "Shipped 1 - Using Shipped the First Time"
         },
-        {
+         {
+            "labId": "shipped-quick-start",
+            "title": "Shipped 2 - Quick Start"
+        },
+       {
             "labId": "shipped-manage-projects",
-            "title": "Shipped - Managing Projects"
+            "title": "Shipped 3 - Managing Projects"
         },
         {
             "labId": "shipped-bootstrap-project",
-            "title": "Shipped - Bootstrap a Project"
+            "title": "Shipped 4 - Bootstrap a Project"
         },
         {
             "labId": "shipped-bootstrap-spark",
-            "title": "Shipped - Bootstrap Using Spark"
+            "title": "Shipped 5 - Bootstrap Using Spark"
         },
         {
             "labId": "shipped-manage-services",
-            "title": "Shipped - Managing Services"
+            "title": "Shipped 6 - Managing Services"
         },
         {
             "labId": "shipped-manage-environments",
-            "title": "Shipped - Managing Environments"
+            "title": "Shipped 7 - Managing Environments"
         },
         {
             "labId": "shipped-deploy-project",
-            "title": "Shipped - Deploy a Project"
+            "title": "Shipped 8 - Deploy a Project"
         },
         {
             "labId": "shipped-manage-users",
-            "title": "Shipped - Manage Users"
+            "title": "Shipped 9 - Managing Users"
         }
     ]
 }
