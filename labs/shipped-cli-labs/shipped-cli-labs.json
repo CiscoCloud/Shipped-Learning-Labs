@@ -1,0 +1,20 @@
+{
+    "labId": "shipped-cli-labs",
+    "title": "Shipped CLI",
+    "byod": true,
+    "slug": "Manage Projects in Shipped",
+     "time": "20",
+    "files": [
+        {"title": "1.md"},
+        {"title": "2.md"},
+	{"title": "3.md"},
+        {"title": "4.md"}
+    ],
+    "tags": [
+        {"title": "Shipped"},
+        {"title": "CLI"}
+    ],
+    "related": [
+         
+    ]
+}
