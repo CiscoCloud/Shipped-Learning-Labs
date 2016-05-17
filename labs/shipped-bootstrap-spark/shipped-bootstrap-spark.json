@@ -6,6 +6,7 @@
      "time": "10",
     "files": [
         {"title": "1.md"}
+        {"title": "2.md"}         
     ],
     "tags": [
         {"title": "Shipped"},
