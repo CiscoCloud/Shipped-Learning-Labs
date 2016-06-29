@@ -1,22 +1,17 @@
 {
-    "labId": "shipped-cli-labs",
-    "title": "Shipped 4 - Shipped CLI",
+    "labId": "shipped-multitier-app",
+    "title": "Shipped 7 - Deploy multitier app on shipped.",
     "byod": true,
-    "slug": "Manage Projects using Shipped CLI",
-     "time": "20",
+    "time": "30",
+    "slug": "Set up quickly in Shipped",
     "files": [
-        {"title": "1.md"},
-        {"title": "2.md"},
-	    {"title": "3.md"},
-        {"title": "4.md"},
-        {"title": "5.md"},
-        {"title": "6.md"}
+        {"title": "1.md"}
     ],
     "tags": [
         {"title": "Shipped"},
-        {"title": "CLI"}
+        {"title": "Cloud"}
     ],
-     "related": [
+      "related": [
         {
             "labId": "shipped-first-time",
             "title": "Shipped 1 - Using Shipped the First Time"

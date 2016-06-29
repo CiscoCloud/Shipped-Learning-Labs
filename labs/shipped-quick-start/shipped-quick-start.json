@@ -38,6 +38,14 @@
         {
             "labId": "shipped-cicd",
             "title": "Shipped 6 - Shipped Continous Integration and Deployment"
+        },
+        {
+            "labId": "shipped-multitier-app",
+            "title": "Shipped 7 - Deploy multitier app on shipped"
+        },
+        {
+            "labId": "shipped-application-level-policy",
+            "title": "Shipped 8 - Define and enforce application level policies"
         }
     ]
 }
