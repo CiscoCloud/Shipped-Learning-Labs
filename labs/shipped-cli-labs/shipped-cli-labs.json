@@ -1,6 +1,6 @@
 {
     "labId": "shipped-cli-labs",
-    "title": "Shipped 4 - Shipped CLI",
+    "title": "Shipped 5 - Shipped CLI",
     "byod": true,
     "slug": "Manage Projects using Shipped CLI",
      "time": "20",
@@ -17,37 +17,39 @@
         {"title": "CLI"}
     ],
      "related": [
-        {
+         {
             "labId": "shipped-first-time",
             "title": "Shipped 1 - Using Shipped the First Time"
-        },
+         },
          {
             "labId": "shipped-quick-start",
             "title": "Shipped 2 - Quick Start"
         },
-       {
+		{
+            "labId": "shipped-import-project",
+            "title": "Shipped 3 - Shipped import existing project"
+        },
+        {
             "labId": "shipped-bootstrap-spark",
-            "title": "Shipped 3 - Bootstrap Project"
+            "title": "Shipped 4 - Bootstrap Project"
         },
         {
             "labId": "shipped-cli-labs",
-            "title": "Shipped 4 - Shipped Using CLI"
+            "title": "Shipped 5 - Shipped Using CLI"
         },
-        {
-            "labId": "shipped-import-project",
-            "title": "Shipped 5 - Shipped import existing project"
-        },
+       
         {
             "labId": "shipped-cicd",
             "title": "Shipped 6 - Shipped Continous Integration and Deployment"
         },
-        {
-            "labId": "shipped-multitier-app",
-            "title": "Shipped 7 - Deploy multitier app on shipped"
-        },
+        
         {
             "labId": "shipped-application-level-policy",
-            "title": "Shipped 8 - Define and enforce application level policies"
+            "title": "Shipped 7 - Define and enforce application level policies"
+        },
+		{
+            "labId": "shipped-multitier-app",
+            "title": "Shipped 8 - Deploy multitier app on shipped"
         }
     ]
 }
