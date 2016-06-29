@@ -21,32 +21,20 @@
             "title": "Shipped 2 - Quick Start"
         },
        {
-            "labId": "shipped-manage-projects",
-            "title": "Shipped 3 - Managing Projects"
-        },
-        {
-            "labId": "shipped-bootstrap-project",
-            "title": "Shipped 4 - Bootstrap a Project"
-        },
-        {
             "labId": "shipped-bootstrap-spark",
-            "title": "Shipped 5 - Bootstrap Using Spark"
+            "title": "Shipped 3 - Bootstrap Project"
         },
         {
-            "labId": "shipped-manage-services",
-            "title": "Shipped 6 - Managing Services"
+            "labId": "shipped-cli-labs",
+            "title": "Shipped 4 - Shipped Using CLI"
         },
         {
-            "labId": "shipped-manage-environments",
-            "title": "Shipped 7 - Managing Environments"
+            "labId": "shipped-import-project",
+            "title": "Shipped 5 - Shipped import existing project"
         },
         {
-            "labId": "shipped-deploy-project",
-            "title": "Shipped 8 - Deploy a Project"
-        },
-        {
-            "labId": "shipped-manage-users",
-            "title": "Shipped 9 - Managing Users"
+            "labId": "shipped-cicd",
+            "title": "Shipped 6 - Shipped Continous Integration and Deployment"
         }
     ]
 }
