@@ -1,6 +1,6 @@
 {
-    "labId": "shipped-bootstrap-spark",
-    "title": "Shipped 3 - Bootstrap a Project Using Spark",
+    "labId": "shipped-cicd",
+    "title": "Shipped 6 - Continuous Integration and Deployment for Project",
     "byod": true,
     "slug": "Bootstrap a project in Shipped",
      "time": "10",

@@ -1,12 +1,13 @@
 {
-    "labId": "shipped-bootstrap-spark",
-    "title": "Shipped 3 - Bootstrap a Project Using Spark",
+    "labId": "shipped-import-project",
+    "title": "Shipped 5 - Import existing project to shipped.",
     "byod": true,
-    "slug": "Bootstrap a project in Shipped",
+    "slug": "Bootstrap an existing project in Shipped",
      "time": "10",
     "files": [
         {"title": "1.md"},
-        {"title": "2.md"}         
+        {"title": "2.md"},
+        {"title": "3.md"}  
     ],
     "tags": [
         {"title": "Shipped"},
