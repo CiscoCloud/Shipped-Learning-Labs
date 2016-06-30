@@ -1,9 +1,9 @@
 {
     "labId": "shipped-import-project",
-    "title": "Shipped 3 - Import existing project to shipped.",
+    "title": "Shipped 3 -  Import Existing Project to Shipped",
     "byod": true,
-    "slug": "Bootstrap an existing project in Shipped",
-     "time": "10",
+    "slug": "Import existing Git Project in shipped",
+     "time": "20",
     "files": [
         {"title": "1.md"},
         {"title": "2.md"},
@@ -12,9 +12,9 @@
     "tags": [
         {"title": "Shipped"},
         {"title": "Cloud"},
-	      {"title": "Spark"}
+	      {"title": "Git"}
     ],
-     "related": [
+    "related": [
          {
             "labId": "shipped-first-time",
             "title": "Shipped 1 - Using Shipped the First Time"
@@ -25,29 +25,29 @@
         },
 		{
             "labId": "shipped-import-project",
-            "title": "Shipped 3 - Shipped import existing project"
+            "title": "Shipped 3 - Import Existing Project to Shipped"
         },
         {
             "labId": "shipped-bootstrap-spark",
-            "title": "Shipped 4 - Bootstrap Project"
+            "title": "Shipped 4 - Bootstrap a Project Using Cisco Spark API"
         },
         {
             "labId": "shipped-cli-labs",
-            "title": "Shipped 5 - Shipped Using CLI"
+            "title": "Shipped 5 - Shipped CLI"
         },
        
         {
             "labId": "shipped-cicd",
-            "title": "Shipped 6 - Shipped Continous Integration and Deployment"
+            "title": "Shipped 6 - Continuous Integration and Deployment for Project"
         },
         
         {
             "labId": "shipped-application-level-policy",
-            "title": "Shipped 7 - Define and enforce application level policies"
+            "title": "Shipped 7 - Define and Enforce Application Level Policies"
         },
-		{
+        {
             "labId": "shipped-multitier-app",
-            "title": "Shipped 8 - Deploy multitier app on shipped"
+            "title": "Shipped 8 - Deploy Multi-tier App using shipped"
         }
     ]
 }
