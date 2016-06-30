@@ -2,7 +2,7 @@
     "labId": "shipped-quick-start",
     "title": "Shipped 2 - Quick Start",
     "byod": true,
-    "time": "10",
+    "time": "20",
     "slug": "Quick set up shipped",
     "files": [
         {"title": "1.md"},
