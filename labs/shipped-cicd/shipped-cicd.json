@@ -11,8 +11,7 @@
     ],
     "tags": [
         {"title": "Shipped"},
-        {"title": "Deployment"},
-	    {"title": "Spark"}
+        {"title": "Deployment"}
     ],
      "related": [
          {
@@ -35,12 +34,12 @@
             "labId": "shipped-cli-labs",
             "title": "Shipped 5 - Shipped CLI"
         },
-       
+
         {
             "labId": "shipped-cicd",
             "title": "Shipped 6 - Continuous Integration and Deployment for Project"
         },
-        
+
         {
             "labId": "shipped-application-level-policy",
             "title": "Shipped 7 - Define and Enforce Application Level Policies"
@@ -49,5 +48,7 @@
             "labId": "shipped-multitier-app",
             "title": "Shipped 8 - Deploy Multi-tier App using shipped"
         }
-    ]
+    ],
+    "active": false,
+    "redirectTo": "cicd-intro"
 }
